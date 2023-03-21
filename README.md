@@ -1,10 +1,10 @@
 # Sommelier Software
 
-The main objective of this software is to simplify the order processing workflow by combining all the relevant automation tools in one place. It achieves this by storing data in a `MongoDB` database and utilizing the `PySimpleGui` Python library to create the graphical user interface (GUI).
+The main objective of this software is to simplify the order processing workflow by combining all the relevant automation tools in one place. It achieves this by storing data in a **MongoDB** database and utilizing the **PySimpleGui** Python library to create the graphical user interface (GUI).
 
-The `PySimpleGui` library is built on top of the `Tkinter` standard Python library, which is included with Python when it is installed. This library offers a straightforward way of building GUIs for Python applications, making it an ideal choice for this software.
+The **PySimpleGui** library is built on top of the **Tkinter** standard Python library, which is included with Python when it is installed. This library offers a straightforward way of building GUIs for Python applications, making it an ideal choice for this software.
 
-By utilizing `MongoDB` and `PySimpleGui`, the software provides a robust and user-friendly platform for managing order processing tasks. The database enables efficient data storage and retrieval, while the GUI simplifies the process of initiating and monitoring automated tasks.
+By utilizing **MongoDB** and **PySimpleGui**, the software provides a robust and user-friendly platform for managing order processing tasks. The database enables efficient data storage and retrieval, while the GUI simplifies the process of initiating and monitoring automated tasks.
 
 #### What does the software do?
 
