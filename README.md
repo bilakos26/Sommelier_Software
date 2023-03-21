@@ -17,3 +17,11 @@ The "Home" tab displays the results of the process in the "Process Info" field. 
 The "History" tab contains all the initiated processes, and users can view, delete, or search for processes from previous dates. Selecting an order and clicking the "View" button shows the process reference for that particular order. Deleting a process removes all orders associated with it. Finally, the "Settings" tab allows users to modify their settings, which are saved on the database.
 
 Overall, the software streamlines the order processing workflow and provides an efficient and organized way to manage orders.
+
+
+
+![1](https://user-images.githubusercontent.com/73201340/226767978-fffc6d9e-9da4-4e5f-9692-11419503ed76.png)
+![2](https://user-images.githubusercontent.com/73201340/226767981-2cbe74bd-ebac-48d8-9f46-b89ae2886c75.png)
+![3](https://user-images.githubusercontent.com/73201340/226767986-c156cc6c-5645-49b4-9bc0-6c812900e9d2.PNG)
+![4](https://user-images.githubusercontent.com/73201340/226767989-8ca11362-6bfb-4877-a9f9-cdbed445e227.png)
+![5](https://user-images.githubusercontent.com/73201340/226767990-e1f1ef1e-0757-4e1f-8eb2-6b5ade85d1ed.png)
